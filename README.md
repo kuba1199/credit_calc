@@ -7,3 +7,4 @@ PHP project, calculator
 <a href="https://github.com/kuba1199/credit_calc/tree/step4_6a">step4_6a</a> Program has a new structure</br>
 <a href="https://github.com/kuba1199/credit_calc/tree/Step4_6b">step4_6b</a> Namespaces added</br>
 <a href="https://github.com/kuba1199/credit_calc/tree/step5_7a">step5_7a</a> Security added and Login controller</br>
+<a href="https://github.com/kuba1199/credit_calc/tree/step5_7b">step5_7b</a> Routing added.</br>
